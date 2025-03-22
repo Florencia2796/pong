@@ -3,7 +3,7 @@ from random import randint, choice
 import pygame
 
 
-"""
+""""
 1. El contador empieza en (0,0) (es decir, mantiene dos puntuaciones, una para cada jugador)
 
 2. Siempre aumenta de uno en uno
